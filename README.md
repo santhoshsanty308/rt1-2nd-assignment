@@ -16,7 +16,7 @@ Basically there are three nodes second_assignment, second_assignment_node and se
 
 STEP1: Open the terminal and go to src of your ROS workspace and run
 
-<pre><code>git clone https://github.com/santhoshsanty308/Rt1.git </code></pre>
+<pre><code>https://github.com/santhoshsanty308/rt1-2nd-assignment.git</code></pre>
 
 STEP2 : Now to build your clonned code run the command - 
 
